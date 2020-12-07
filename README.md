@@ -1,1 +1,2 @@
-# c-21-code_start
+# collisionAlgorithm
+Algorithm to detect collision between two objects
